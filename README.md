@@ -21,8 +21,3 @@ My Name is Ratchaneekorn Chuadee.<br>D.O.B : 13/07/2000<br>Height : 170 cm.<br>I
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=lookplarcnk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
