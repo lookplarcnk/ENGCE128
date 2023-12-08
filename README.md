@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Ratchaneekorn Chuadee.<br>D.O.B : 13/07/2000<br>Height : 170 cm.<br>I'm a computer engineering student at RMUTL<br>I Live in Chiang Mai, Thailand.<br>Graduated from Payap Technological and Business College. 
+My Name is Ratchaneekorn Chuadee.<br>D.O.B : 13/07/2000<br>Height : 170 cm.<br>I'm a computer engineering student at Rajamangala University of Technology Lanna (Payap Campus)<br>I Live in Chiang Mai, Thailand.<br>Graduated from Payap Technological and Business College. 
 
 
 ## 🌐 Socials:
