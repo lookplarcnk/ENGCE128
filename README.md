@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratchaneekorn Chuadee</h1>
-<h3 align="center">I came from Thailand.</h3>
+<h3 align="center">I live in Thailand. 23 year old</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lookplarcnk&label=Profile%20views&color=0e75b6&style=flat" alt="lookplarcnk" /> </p>
 
