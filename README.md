@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ratchaneekorn Chuadee</h1>
 <h3 align="center">I live in Chiang Mai, Thailand</h3>
 <h3 align="center">23 year old</h3>
-<h3 align="center">Computer engineering From Rajamangala University of Technology Lanna (Payap Campus)</h3>
+<h3 align="center">Computer engineering student From Rajamangala University of Technology Lanna (Payap Campus)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lookplarcnk&label=Profile%20views&color=0e75b6&style=flat" alt="lookplarcnk" /> </p>
 
